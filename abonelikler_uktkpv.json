@@ -1,3 +1,14 @@
 {
-  "abonelikler": []
+    "abonelikler":  [
+                        {
+                            "musteri":  "AYTEKİN GÜNEL",
+                            "baslangic":  "2026-10-08",
+                            "bitis":  "2027-10-08",
+                            "durum":  "aktif",
+                            "anahtarHash":  "5AFBFD25773CB32803CEFDD826CB61B956AB79D002E3BE082155FEA222C034D9",
+                            "cihazlar":  [
+                                             "FBFF35B3"
+                                         ]
+                        }
+                    ]
 }
